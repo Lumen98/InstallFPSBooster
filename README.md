@@ -3,8 +3,11 @@ FPS Booster
 A powerful and user-friendly Windows application to optimize system performance by managing and terminating unnecessary processes. It provides both basic and advanced controls for users to boost FPS and overall system efficiency.
 
 TO INSTALL: 
+
 Follow this link to my releases page: https://github.com/Lumen98/InstallFPSBooster/releases/tag/1.0.1
+
 Click FPSBooster.exe to download.
+
 To run, open the FPSBooster.exe file.
 
 📊 Features
