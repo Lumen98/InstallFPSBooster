@@ -10,6 +10,10 @@ Click FPSBooster.exe to download.
 
 To run, open the FPSBooster.exe file.
 
+To View Source Code:
+
+Follow this link: https://github.com/Lumen98/WindowsProcessKiller2.0
+
 📊 Features
 
 One-Click Boost: Automatically detects and terminates high CPU-consuming or blacklisted processes.
